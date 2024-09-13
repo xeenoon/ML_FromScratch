@@ -1,0 +1,5 @@
+# Ignore the .vscode folder
+.vscode/
+
+# Ignore the output file number_recognition
+number_recognition
